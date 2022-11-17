@@ -1,0 +1,5 @@
+C:\Users\naruto\Desktop\BridgeLabz\Day11\ObjectOrientedPrograms\OopsUC3\OopsUC3\obj\Debug\netcoreapp3.1\OopsUC3.csproj.AssemblyReference.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day11\ObjectOrientedPrograms\OopsUC3\OopsUC3\obj\Debug\netcoreapp3.1\OopsUC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naruto\Desktop\BridgeLabz\Day11\ObjectOrientedPrograms\OopsUC3\OopsUC3\obj\Debug\netcoreapp3.1\OopsUC3.AssemblyInfoInputs.cache
+C:\Users\naruto\Desktop\BridgeLabz\Day11\ObjectOrientedPrograms\OopsUC3\OopsUC3\obj\Debug\netcoreapp3.1\OopsUC3.AssemblyInfo.cs
+C:\Users\naruto\Desktop\BridgeLabz\Day11\ObjectOrientedPrograms\OopsUC3\OopsUC3\obj\Debug\netcoreapp3.1\OopsUC3.csproj.CoreCompileInputs.cache
